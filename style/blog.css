@@ -1,7 +1,9 @@
 div{
     color: black;
     background-color: yellow;
-    border: 10px solid blue;
+    border: 5px solid blue;
+    margin 10px 10px; padding: 10px;
+    box-shadow: 10px black;
     width: 50%;
 }
 #sp{
@@ -11,4 +13,8 @@ div{
 h2{
     font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 900;background-color: aquamarine; width: 50%;
+    align-items: center;
+}
+li{
+    background-color: turquoise; color: red;
 }
