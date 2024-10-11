@@ -1,0 +1,14 @@
+div{
+    color: black;
+    background-color: yellow;
+    border: 10px solid blue;
+    width: 50%;
+}
+#sp{
+    font-size: larger; font-weight: bolder;
+    border: 2px solid tomato;
+}
+h2{
+    font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;background-color: aquamarine; width: 50%;
+}
